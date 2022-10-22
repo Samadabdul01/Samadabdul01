@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulsamad
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning C & Python 
+- 🌱 I’m currently learning C & java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
