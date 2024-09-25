@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdulsamad
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning C & java
+- 👋 Hi, I’m @abdul_samad
+- 👀 I’m interested in Artificial intelligence 
+- 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
