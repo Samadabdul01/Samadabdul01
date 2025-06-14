@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Samadd</h1>
+<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">A passionate AI learner from India</h3>
 
 - 🌱 I’m currently learning **DSA, Deep learning**
