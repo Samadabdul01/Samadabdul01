@@ -20,55 +20,28 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="OpenCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/>
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="Scikit Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/>
-</a>
-&nbsp;
+  <img align="left" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36"/>
-</a>
-&nbsp;
-
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36"/>
-</a>
-
+  <img align="left" alt="TensorFlow" width="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
 </p>
+
+<br />
+<br />
+<br />
 
